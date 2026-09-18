@@ -3,113 +3,113 @@ module.exports = {
     {
       title: "ROUND ONE",
       categories: [
-        { name: "ANIMAL HOUSE", clues: [
-          { value: 200, q: "This black-and-white bear is famous for eating bamboo.", a: "Giant panda" },
-          { value: 400, q: "These are the only mammals capable of true sustained flight.", a: "Bats" },
-          { value: 600, q: "This is the largest living species of penguin.", a: "Emperor penguin" },
-          { value: 800, q: "This eight-armed sea animal has three hearts and blue blood.", a: "Octopus" },
-          { value: 1000, q: "A narwhal's famous tusk is actually an extremely long one of these.", a: "Tooth" }
+        { name: "CHRONICALLY ONLINE", clues: [
+          { value: 200, q: "On social media, this three-letter abbreviation means 'direct message.'", a: "DM" },
+          { value: 400, q: "This word for a rapidly spreading joke, image, or format was coined decades before modern social media.", a: "Meme" },
+          { value: 600, q: "A post designed mainly to make people angry enough to engage is commonly called this kind of bait.", a: "Rage bait" },
+          { value: 800, q: "This internet term describes repeatedly refreshing bad news even though it makes you feel worse.", a: "Doomscrolling" },
+          { value: 1000, q: "This four-letter abbreviation labels a post that explains a concept or gives background: 'Today I learned.'", a: "TIL" }
         ]},
-        { name: "TV TIME", clues: [
-          { value: 200, q: "On Friends, the gang regularly hangs out at this coffee shop.", a: "Central Perk" },
-          { value: 400, q: "Stranger Things is largely set in this fictional Indiana town.", a: "Hawkins" },
-          { value: 600, q: "Walter White uses this alias in Breaking Bad.", a: "Heisenberg" },
-          { value: 800, q: "The Roy family controls this media company in Succession.", a: "Waystar Royco" },
-          { value: 1000, q: "Tony Soprano's psychiatrist on The Sopranos is Dr. Jennifer this.", a: "Melfi" }
+        { name: "PLAYLIST CORE", clues: [
+          { value: 200, q: "This singer released the album 'SOUR,' featuring 'drivers license' and 'good 4 u.'", a: "Olivia Rodrigo" },
+          { value: 400, q: "This artist's album 'Future Nostalgia' includes 'Levitating' and 'Don't Start Now.'", a: "Dua Lipa" },
+          { value: 600, q: "This rapper's real first name is Aubrey, and he began acting on 'Degrassi.'", a: "Drake" },
+          { value: 800, q: "This singer released the albums 'Ctrl' and 'SOS.'", a: "SZA" },
+          { value: 1000, q: "Before becoming a solo star, Harry Styles was a member of this five-person boy band.", a: "One Direction" }
         ]},
-        { name: "THE HUMAN BODY", clues: [
-          { value: 200, q: "This is the largest organ of the human body.", a: "Skin" },
-          { value: 400, q: "The medical name for the kneecap is this.", a: "Patella" },
-          { value: 600, q: "This organ produces the hormone insulin.", a: "Pancreas" },
-          { value: 800, q: "This tiny stirrup-shaped bone is the smallest bone in the human body.", a: "Stapes" },
-          { value: 1000, q: "Also called the bicuspid valve, this heart valve sits between the left atrium and left ventricle.", a: "Mitral valve" }
+        { name: "GAMING IRL", clues: [
+          { value: 200, q: "In Minecraft, this green hostile mob silently approaches before exploding.", a: "Creeper" },
+          { value: 400, q: "Mario's dinosaur companion, usually green, has this name.", a: "Yoshi" },
+          { value: 600, q: "In Fortnite, this shrinking area forces players closer together as a match continues.", a: "The Storm" },
+          { value: 800, q: "This Valve game has two teams, Terrorists and Counter-Terrorists, competing in bomb and hostage scenarios.", a: "Counter-Strike" },
+          { value: 1000, q: "In The Legend of Zelda series, this recurring kingdom is ruled by the royal family associated with Princess Zelda.", a: "Hyrule" }
         ]},
-        { name: "WHO MADE IT?", clues: [
-          { value: 200, q: "This inventor received an 1876 U.S. patent for a practical telephone design.", a: "Alexander Graham Bell" },
-          { value: 400, q: "This computer scientist invented the World Wide Web.", a: "Tim Berners-Lee" },
-          { value: 600, q: "The inventor of dynamite later gave his name to a famous set of international prizes.", a: "Alfred Nobel" },
-          { value: 800, q: "This Hungarian-Argentine inventor gave his surname to the modern ballpoint pen in much of the world.", a: "László Bíró" },
-          { value: 1000, q: "This American inventor dramatically demonstrated his safety elevator at New York's Crystal Palace exhibition in 1854.", a: "Elisha Otis" }
+        { name: "SNACK ATTACK", clues: [
+          { value: 200, q: "This Mexican dip is made mainly from mashed avocado.", a: "Guacamole" },
+          { value: 400, q: "Bubble tea is famous for chewy pearls usually made from this starch.", a: "Tapioca" },
+          { value: 600, q: "This Japanese dish often combines vinegared rice with fish, seafood, or vegetables.", a: "Sushi" },
+          { value: 800, q: "Tiramisu traditionally gets much of its coffee flavor from this concentrated coffee drink.", a: "Espresso" },
+          { value: 1000, q: "This Korean fermented side dish is commonly made with napa cabbage and chili seasoning.", a: "Kimchi" }
         ]},
-        { name: "MYTH & LEGEND", clues: [
-          { value: 200, q: "In Greek mythology, this god rules Mount Olympus and wields thunderbolts.", a: "Zeus" },
-          { value: 400, q: "In Norse mythology, Thor's hammer is called this.", a: "Mjölnir / Mjolnir" },
-          { value: 600, q: "This jackal-headed Egyptian god is strongly associated with mummification and the dead.", a: "Anubis" },
-          { value: 800, q: "In Greek mythology, this ferryman carries souls across the river Styx.", a: "Charon" },
-          { value: 1000, q: "In Norse mythology, this immense world tree connects the nine worlds.", a: "Yggdrasil" }
+        { name: "TEXT ME BACK", clues: [
+          { value: 200, q: "In texting, 'BRB' means this.", a: "Be right back" },
+          { value: 400, q: "The abbreviation 'IMO' usually introduces one of these.", a: "An opinion / In my opinion" },
+          { value: 600, q: "If someone replies with 'IDK,' they are saying these three words.", a: "I don't know" },
+          { value: 800, q: "In online slang, 'IRL' distinguishes something happening in this realm from something happening online.", a: "In real life" },
+          { value: 1000, q: "This abbreviation, originally used in messages and forums, means 'as far as I know.'", a: "AFAIK" }
         ]},
-        { name: "BY THE NUMBERS", clues: [
-          { value: 200, q: "A standard dozen contains this many items.", a: "12" },
-          { value: 400, q: "A nonagon has this many sides.", a: "9" },
-          { value: 600, q: "Two raised to the tenth power equals this number.", a: "1,024" },
-          { value: 800, q: "This is the positive square root of 2,025.", a: "45" },
-          { value: 1000, q: "In the Fibonacci sequence, this number comes immediately after 144.", a: "233" }
+        { name: "MAIN CHARACTER ENERGY", clues: [
+          { value: 200, q: "Elle Woods attends this Ivy League law school in 'Legally Blonde.'", a: "Harvard Law School / Harvard" },
+          { value: 400, q: "In 'The Hunger Games,' Katniss volunteers in place of this younger sister.", a: "Prim / Primrose Everdeen" },
+          { value: 600, q: "Miles Morales takes on the identity of this superhero.", a: "Spider-Man" },
+          { value: 800, q: "This Wednesday Addams actor played the title role in Netflix's 'Wednesday.'", a: "Jenna Ortega" },
+          { value: 1000, q: "In 'The Devil Wears Prada,' Andy Sachs works for this fictional fashion magazine.", a: "Runway" }
         ]}
       ]
     },
     {
       title: "DOUBLE ROUND",
       categories: [
-        { name: "BOOK NOOK", clues: [
-          { value: 400, q: "George Orwell wrote this dystopian novel about Big Brother.", a: "1984 / Nineteen Eighty-Four" },
-          { value: 800, q: "This hobbit is the title character of J.R.R. Tolkien's The Hobbit.", a: "Bilbo Baggins" },
-          { value: 1200, q: "This author wrote Frankenstein, first published anonymously in 1818.", a: "Mary Shelley" },
-          { value: 1600, q: "This Colombian author wrote One Hundred Years of Solitude.", a: "Gabriel García Márquez" },
-          { value: 2000, q: "The line 'All happy families are alike' opens this novel by Leo Tolstoy.", a: "Anna Karenina" }
+        { name: "THE ALGORITHM MADE ME", clues: [
+          { value: 400, q: "On TikTok, the personalized recommendation feed is commonly known by this three-word name.", a: "For You Page" },
+          { value: 800, q: "YouTube's system for surfacing recommended videos heavily responds to signals such as clicks and this measure of how long viewers keep watching.", a: "Watch time" },
+          { value: 1200, q: "This Spotify feature creates a personalized year-end summary of a listener's music habits.", a: "Spotify Wrapped" },
+          { value: 1600, q: "On many platforms, this two-word term describes content presented in the order a recommendation system thinks you will like, rather than strictly by time.", a: "Algorithmic feed" },
+          { value: 2000, q: "The term for a social-media environment where users mostly encounter views similar to their own is this two-word phrase.", a: "Echo chamber" }
         ]},
-        { name: "FLAGS & SYMBOLS", clues: [
-          { value: 400, q: "A red maple leaf appears at the center of this country's flag.", a: "Canada" },
-          { value: 800, q: "This country's national flag is square and features a white cross on red.", a: "Switzerland" },
-          { value: 1200, q: "A green cedar tree appears prominently on the flag of this Middle Eastern country.", a: "Lebanon" },
-          { value: 1600, q: "This is the only modern national flag that is not a quadrilateral.", a: "Nepal" },
-          { value: 2000, q: "The Union Jack combines crosses associated with these three patron saints.", a: "Saint George, Saint Andrew, and Saint Patrick" }
+        { name: "Y2K-ISH", clues: [
+          { value: 400, q: "This flip phone brand's Razr became one of the defining mobile phones of the mid-2000s.", a: "Motorola" },
+          { value: 800, q: "This social network launched in 2003 and became famous for customizable profiles and a 'Top 8.'", a: "MySpace" },
+          { value: 1200, q: "Apple introduced this portable music player in 2001 with the slogan about putting 1,000 songs in your pocket.", a: "iPod" },
+          { value: 1600, q: "This messaging service was commonly abbreviated AIM.", a: "AOL Instant Messenger" },
+          { value: 2000, q: "Released in 2004, this Nintendo handheld featured two screens, with the lower one using touch input.", a: "Nintendo DS" }
         ]},
-        { name: "BUSINESS & BRANDS", clues: [
-          { value: 400, q: "The Swoosh is the famous logo of this athletic brand.", a: "Nike" },
-          { value: 800, q: "This Swedish retailer is known for flat-pack furniture and maze-like stores.", a: "IKEA" },
-          { value: 1200, q: "Steve Jobs, Steve Wozniak, and Ronald Wayne founded this company in 1976.", a: "Apple" },
-          { value: 1600, q: "The interlocking initials LV identify this French luxury brand.", a: "Louis Vuitton" },
-          { value: 2000, q: "Founded in 1889 as a playing-card company, this Japanese firm later became a video-game giant.", a: "Nintendo" }
+        { name: "STREAMING & SCREENS", clues: [
+          { value: 400, q: "In 'Stranger Things,' Eleven is often called by this shorter nickname.", a: "El" },
+          { value: 800, q: "This animated series follows the Belcher family, who run a burger restaurant.", a: "Bob's Burgers" },
+          { value: 1200, q: "In 'Euphoria,' Zendaya plays this teenage narrator.", a: "Rue Bennett / Rue" },
+          { value: 1600, q: "This HBO series follows wealthy guests and employees at a luxury resort chain, with each season set at a different location.", a: "The White Lotus" },
+          { value: 2000, q: "In 'Black Mirror,' the episode 'San Junipero' centers on a virtual reality town with this name.", a: "San Junipero" }
         ]},
-        { name: "NATURE GONE WILD", clues: [
-          { value: 400, q: "Tornado intensity in the United States is commonly rated using this scale, abbreviated EF.", a: "Enhanced Fujita scale" },
-          { value: 800, q: "A tropical cyclone in the North Atlantic or northeastern Pacific is commonly called this.", a: "Hurricane" },
-          { value: 1200, q: "Yellowstone sits above a huge volcanic depression known by this geological term.", a: "Caldera" },
-          { value: 1600, q: "This climate pattern involves unusually warm surface waters in the central and eastern tropical Pacific.", a: "El Niño" },
-          { value: 2000, q: "This fast-moving avalanche of hot gas, ash, and volcanic debris can race down the side of an erupting volcano.", a: "Pyroclastic flow" }
+        { name: "EMOJI LITERACY", clues: [
+          { value: 400, q: "This punctuation mark is often paired with the word 'period' online to emphasize that a statement is final.", a: "Period / full stop" },
+          { value: 800, q: "The skull emoji is often used online to mean something was so funny that the user metaphorically did this.", a: "Died / I'm dead" },
+          { value: 1200, q: "The phrase 'green flag' is commonly used for a trait considered this in a friend or partner.", a: "Positive / desirable / a good sign" },
+          { value: 1600, q: "In social-media slang, to 'ratio' a post means a reply or response gets unusually strong engagement compared with this original item.", a: "The original post" },
+          { value: 2000, q: "The term 'parasocial relationship' describes a one-sided sense of connection with this kind of public figure or media personality.", a: "A celebrity / creator / public figure" }
         ]},
-        { name: "ODD JOBS", clues: [
-          { value: 400, q: "This restaurant professional specializes in wine service and pairing.", a: "Sommelier" },
-          { value: 800, q: "A professional who trims and shoes horses' hooves is called this.", a: "Farrier" },
-          { value: 1200, q: "A person who makes maps is known by this job title.", a: "Cartographer" },
-          { value: 1600, q: "This craftsperson builds or repairs stringed instruments such as violins and guitars.", a: "Luthier" },
-          { value: 2000, q: "This professional uses mathematics and statistics to assess financial risk, especially in insurance.", a: "Actuary" }
+        { name: "LOWKEY ACADEMIC", clues: [
+          { value: 400, q: "This planet is closest to the Sun.", a: "Mercury" },
+          { value: 800, q: "This element has the chemical symbol K.", a: "Potassium" },
+          { value: 1200, q: "In economics, this term describes a general rise in prices over time that reduces purchasing power.", a: "Inflation" },
+          { value: 1600, q: "A word formed from the initial letters of a phrase and pronounced as a word, like NASA, is called this.", a: "Acronym" },
+          { value: 2000, q: "In statistics, this value is the middle number when a data set is arranged in order.", a: "Median" }
         ]},
-        { name: "PLANES, TRAINS & AUTOS", clues: [
-          { value: 400, q: "The Boeing 747 became widely known by this two-word nickname.", a: "Jumbo Jet" },
-          { value: 800, q: "Japan's famous high-speed rail network is known by this name.", a: "Shinkansen" },
-          { value: 1200, q: "On a ship or boat, this term means the left-hand side when facing forward.", a: "Port" },
-          { value: 1600, q: "Despite the name, an aircraft's flight-data 'black box' is usually painted this bright color to aid recovery.", a: "Orange" },
-          { value: 2000, q: "This aviation term, expressed as a number such as Mach 1, compares an object's speed with the local speed of sound.", a: "Mach number" }
+        { name: "BRANDS WITH LORE", clues: [
+          { value: 400, q: "This company owns Instagram and WhatsApp.", a: "Meta" },
+          { value: 800, q: "This sportswear company's name comes from the Greek goddess of victory.", a: "Nike" },
+          { value: 1200, q: "This streaming company began as a DVD-by-mail rental service in 1997.", a: "Netflix" },
+          { value: 1600, q: "This luxury fashion house is known for a double-C logo associated with its founder's surname.", a: "Chanel" },
+          { value: 2000, q: "This Japanese clothing retailer is owned by Fast Retailing and is known for basics such as Heattech.", a: "Uniqlo" }
         ]}
       ]
     }
   ],
   quickMoney: [
-    { q: "Name something people do while waiting in a long line.", answers: [
-      { text: "Check phone", points: 34 }, { text: "Talk to someone", points: 22 }, { text: "People-watch", points: 18 }, { text: "Complain", points: 15 }, { text: "Listen to music", points: 11 }
+    { q: "Name something people do before posting a selfie.", answers: [
+      { text: "Take several photos", points: 31 }, { text: "Fix hair / outfit", points: 24 }, { text: "Choose a filter", points: 19 }, { text: "Check the background", points: 14 }, { text: "Ask a friend which one", points: 12 }
     ]},
-    { q: "Name something people use to make a room smell better.", answers: [
-      { text: "Candle", points: 32 }, { text: "Air freshener", points: 28 }, { text: "Diffuser / essential oils", points: 18 }, { text: "Flowers", points: 12 }, { text: "Incense", points: 10 }
+    { q: "Name something that can instantly kill the vibe in a group chat.", answers: [
+      { text: "An argument", points: 30 }, { text: "Being left on read", points: 24 }, { text: "An awkward message", points: 19 }, { text: "Someone oversharing", points: 15 }, { text: "Spam / too many messages", points: 12 }
     ]},
-    { q: "Name something people realize they forgot after leaving home.", answers: [
-      { text: "Phone", points: 30 }, { text: "Keys", points: 25 }, { text: "Wallet / purse", points: 21 }, { text: "Charger", points: 13 }, { text: "Umbrella", points: 11 }
+    { q: "Name something people say they will do for five minutes but end up doing for an hour.", answers: [
+      { text: "Scroll social media", points: 36 }, { text: "Watch videos", points: 24 }, { text: "Play a game", points: 18 }, { text: "Take a nap", points: 12 }, { text: "Browse online shopping", points: 10 }
     ]},
-    { q: "Name something people like to do on a rainy day at home.", answers: [
-      { text: "Watch TV / movies", points: 35 }, { text: "Read", points: 22 }, { text: "Sleep / nap", points: 18 }, { text: "Play games", points: 14 }, { text: "Cook / bake", points: 11 }
+    { q: "Name something someone might bring to a music festival.", answers: [
+      { text: "Water bottle", points: 28 }, { text: "Phone", points: 24 }, { text: "Portable charger", points: 21 }, { text: "Sunscreen", points: 15 }, { text: "Sunglasses", points: 12 }
     ]},
-    { q: "Name something you might hear during a wedding reception.", answers: [
-      { text: "Music", points: 33 }, { text: "A speech / toast", points: 26 }, { text: "Applause", points: 17 }, { text: "Laughter", points: 14 }, { text: "Glasses clinking", points: 10 }
+    { q: "Name something that makes someone immediately check their phone.", answers: [
+      { text: "Notification sound", points: 34 }, { text: "A message / text", points: 27 }, { text: "A call", points: 18 }, { text: "Vibration", points: 12 }, { text: "Remembering something", points: 9 }
     ]}
   ]
 };
