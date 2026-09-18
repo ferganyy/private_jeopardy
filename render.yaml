@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: buzz-battle
+    runtime: node
+    plan: free
+    buildCommand: echo "No build step"
+    startCommand: npm start
+    healthCheckPath: /health
